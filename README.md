@@ -8,7 +8,7 @@ This project leverages automated continuous integration workflows to scan for co
 | :--- | :---: | :---: | :---: | :---: |
 | **SonarQube Cloud** | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Dogmeat2000_case1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Dogmeat2000_case1) | [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Dogmeat2000_case1&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Dogmeat2000_case1) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Dogmeat2000_case1&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Dogmeat2000_case1) | [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Dogmeat2000_case1&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Dogmeat2000_case1) |
 
-🔗 **Deep Dive Analysis Dashboard:** [Access Public SonarQube Overview Report](https://sonarcloud.io/project/overview?id=Dogmeat2000_caseTest)
+🔗 **Deep Dive Analysis Dashboard:** [Access Public SonarQube Overview Report](https://sonarcloud.io/project/overview?id=Dogmeat2000_case1)
 
 ---
 
